@@ -1,2 +1,7 @@
 # Ignore build folder
 BUILD/
+build/
+**/build/
+
+# CppUTest related
+cpputest/
