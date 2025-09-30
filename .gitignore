@@ -1,2 +1,5 @@
 # Ignore build folder
 BUILD/
+
+# Example app build artifacts
+EXAMPLE_APP/*/build/
